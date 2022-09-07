@@ -1,4 +1,5 @@
-master: [![Build Status](https://travis-ci.org/x-stream/xstream.svg?branch=master)](https://travis-ci.org/x-stream/xstream) [![Coverage Status](https://coveralls.io/repos/github/x-stream/xstream/badge.svg?branch=master)](https://coveralls.io/github/x-stream/xstream?branch=master)  
+master: [![Build Status](https://travis-ci.org/x-stream/xstream.svg?branch=master)](https://travis-ci.org/x-stream/xstream) [![Coverage Status](https://coveralls.io/repos/github/x-stream/xstream/badge.svg?branch=master)](https://coveralls.io/github/x-stream/xstream?branch=master) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fksshin-kaist%2Fxstream1.4.17.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fksshin-kaist%2Fxstream1.4.17?ref=badge_shield)
+ 
 v-1.4.x: [![Build Status](https://travis-ci.org/x-stream/xstream.svg?branch=v-1.4.x)](https://travis-ci.org/x-stream/xstream) [![Coverage Status](https://coveralls.io/repos/github/x-stream/xstream/badge.svg?branch=v-1.4.x)](https://coveralls.io/github/x-stream/xstream?branch=v-1.4.x)
 
 - - - -
@@ -27,3 +28,7 @@ The complete source for XStream is bundled in the -src archive.  This includes:
 * Hibernate Module [xstream-hibernate]
 * Website [xstream-distribution]
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fksshin-kaist%2Fxstream1.4.17.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fksshin-kaist%2Fxstream1.4.17?ref=badge_large)
